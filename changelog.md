@@ -1,6 +1,6 @@
-Team: Jason Sekhon
+Team: Jason Sekhon, Morris Arroyo
 
 ----------
 
-
-* created change-log. Add updates above this line.
+* added Morris to team.
+* created change-log. Additions will be newest first.
