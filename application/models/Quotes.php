@@ -25,7 +25,7 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
-		'7'	 => array('who'	 => 'Setsuna Food', 'role'	 => 'Gundam Pilot',
+		'7'	 => array('who'	 => 'Setsuna', 'role'	 => 'Gundam Pilot',
 			'what'	 => 'You owe me MONEY!')
 	);
 
